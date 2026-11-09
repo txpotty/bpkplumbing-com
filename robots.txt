@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bpkplumbing.com/sitemap.xml
